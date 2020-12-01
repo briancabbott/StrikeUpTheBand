@@ -1,5 +1,7 @@
+Covers to learn and Perform - for Voice 
 
-Cool Band, Track songs:
+
+[Alt/Rock/Met] Cool Band, Track songs:
    - Time of your Life, Green Day
    - Runaway Train, Soul Asylum
    - You Outta Know, Alanis Morrisette.
@@ -8,7 +10,28 @@ Cool Band, Track songs:
    - Big Empty, STP`
    - Interstate Love Song, STP
    - Enter Sandman, Metallica.
-   
+
+
+[Foreign] Cool Band, Track songs: 
+   - La Bamba, Ritchie Valens/Los Lobos
+
+
+[Classics, 65-80] Cool Band, Track songs: 
+   - Summer in the City, Lovin Spoonful
+   - California Dreamin, Mamas and the Papas
+   - Turn! Turn! Turn!, The Byrds
+   - Get Together, the young bloods
+   - San Francisco, Scott McKenzie
+   - For what it's worth, Buffalo Springfield
+
+
+[Oldies, 50-65] Cool Band, Track songs:
+
+
+Folk:
+   - All I really need, Raffi
+   - 
+
 
 Pure A cappella:
    - Volare, Dean Martin
@@ -18,3 +41,4 @@ Pure A cappella:
 
 Christmas Classics:
    - Auld Lang Synge
+
